@@ -1,90 +1,112 @@
-# 👋 Hi, I’m Tanish Jain  
-
-🚀 **DevOps & Cloud Enthusiast | MERN Stack Developer | Open-Source Contributor**  
-
-💡 I’m passionate about building **secure, scalable, and automated systems**.  
-With hands-on experience in **Docker, GitHub Actions, and MERN stack**, I love solving real-world problems through **automation and modern web technologies**.  
-
-✨ Exploring **DevSecOps, Cloud-Native tools, AI/Chatbots, and 3D Web Experiences**.  
-
----
-
-## 🔧 Tech Stack & Skills  
-
-### 🚀 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![C](https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-
-### ⚡ Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0FC8?style=for-the-badge&logo=daisyui&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-
-### ☁️ DevOps & Cloud  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
-
-### 🗄 Databases  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### 🛠 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
-
-## 🚀 Featured Project  
-
-### **Orbit – Daily Health & Finance Companion**  
-💡 A modern lifestyle platform that combines **health tracking** + **finance management** in one place.  
-- ✅ Track daily goals: calories, protein, hydration  
-- ✅ Smart expense manager with UPI/GPay-style integration  
-- ✅ Automated daily/weekly micro-savings vault  
-- ✅ All-in-one **Health + Finance** solution  
-
----
-
-## 🎓 Certifications  
-- 📜 Full Stack Web Development – *GFG SkillUp*  
-- 📜 Oracle DevOps Path  
-- 📜 Docker, Kubernetes & Terraform – *Udemy*  
-- 📜 Red Hat System Administration I (RH124) – *Techno India NJR*  
-
----
-
-## 📊 GitHub Stats  
+<h1 align="center">👋 Hi, I’m <b>Tanish Jain</b></h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=05tanish&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://streak-stats.demolab.com?user=05tanish&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+  🚀 <b>DevOps & Cloud Engineer | Exploring MLOps</b><br>
+  🐳 Docker · ☸️ Kubernetes · ⚙️ Jenkins · 🏗️ Terraform · ☁️ AWS · 🐧 Linux<br>
+  💡 Automating deployments · CI/CD pipelines · Scalable cloud systems<br>
+  📍 <b>Udaipur, Rajasthan</b> · <i>Open to internships & collaborations</i>
+</p>
+
+
+---
+
+## 🔧 DevOps Workflow
+
+```mermaid
+flowchart LR
+  A[Code Commit] --> B[CI/CD: GitHub Actions / Jenkins]
+  B --> C[Docker Build]
+  C --> D[Push Image to DockerHub]
+  D --> E[Kubernetes Deployment]
+  E --> F[Monitoring: Prometheus & Grafana]
+````
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 DevOps & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+### 🌐 Web Skills
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+
+
+---
+
+## 📌 Featured Projects(comming soon )
+
+| Project                                           | Description                                           | Tech                                 |
+| ------------------------------------------------- | ----------------------------------------------------- | ------------------------------------ |
+| [CI/CD Pipeline with Jenkins & GitHub Actions](#) | Automated build → test → deploy with Docker + K8s     | Jenkins, GitHub Actions, Docker, K8s |
+| [Kubernetes Monitoring Stack](#)                  | Monitoring with Prometheus & Grafana + alerting rules | K8s, Prometheus, Grafana             |
+| [Terraform IaC Project](#)                        | Provision AWS infra & deploy Dockerized app           | Terraform, AWS, Docker               |
+| [MLOps Pipeline Demo](#)                          | Train & deploy ML models with MLflow + K8s            | Python, MLflow, Docker, K8s          |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=05tanish&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=05tanish&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05tanish&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 📚 Currently Learning
 
-<p align="center">
-  <a href="mailto:tanishjain262@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/05tanish"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-</p>  
+* ⚙️ Advanced Kubernetes (Helm, Operators, Ingress Controllers)
+* ☁️ Terraform on AWS & GCP
+* 🤖 MLOps pipelines (MLflow, Airflow, Kubeflow)
 
 ---
 
-✨ *“Code, automate, and scale — that’s my mantra.”*  
+## ✍️ Blogs & Articles
 
+* [Dockerizing a Django App — Step by Step](#)
+* [End-to-End CI/CD Pipeline with Kubernetes](#)
+* [Monitoring with Prometheus + Grafana](#)
+
+---
+
+## 📈 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/tanish993678?theme=dark&font=Roboto&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanish-jain-5b986828a/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/05tanish"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&logo=github&logoColor=white" /></a>
+  <a href="https://hashnode.com/@tanish05"><img src="https://img.shields.io/badge/Hashnode-%2312100E.svg?&logo=hashnode&logoColor=white" /></a>
+  <a href="mailto:tanishjain262@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ *On a journey to master DevOps, Cloud, and MLOps — one real-world project at a time.*
