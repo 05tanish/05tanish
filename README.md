@@ -38,11 +38,13 @@ Experienced in **API design, async processing, caching, and observability-driven
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=05tanish&show_icons=true&theme=tokyonight&hide_border=true" height="140"/>
   <img src="https://streak-stats.demolab.com/?user=05tanish&theme=tokyonight&hide_border=true" height="140"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05tanish&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=05tanish&theme=tokyo-night"/>
 </p>
+
 
 
 
