@@ -5,10 +5,10 @@
   <a href="https://github.com/05tanish">
     <img src="https://img.shields.io/badge/GitHub-05tanish-black?style=flat-square&logo=github">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/tanish-jain-5b986828a>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  <a href="https://leetcode.com/tanish993678">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode">
   </a>
   <a href="mailto:tanishjain262@gmail.com">
