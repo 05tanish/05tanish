@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Tanish Jain</h1>
-<p align="center"><b>Backend Engineer • Distributed Systems • DevOps</b></p>
+<p align="center"><b>Backend Engineer • Distributed Systems • AI Systems</b></p>
 
 <p align="center">
   <a href="https://github.com/05tanish">
@@ -25,9 +25,8 @@
 
 ## 🧠 Profile
 
-Backend engineer building **scalable, fault-tolerant systems** with focus on **throughput, latency, and reliability**.
-Experienced in **API design, async processing, caching, and observability-driven systems**.
-
+Backend engineer building **scalable systems and AI-powered applications**.
+Interested in **distributed systems, API design, async processing, RAG, and system reliability**.
 ---
 
 ## ⚙️ Stack
@@ -38,6 +37,15 @@ Experienced in **API design, async processing, caching, and observability-driven
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Repository |
+|---|---|---|
+| **ContractIQ** | AI-powered legal document analysis using RAG. | [View Repo](https://github.com/05tanish/Legal-Contract-Analyzer) |
+| **Synthetic Data Generator** | Tool for generating synthetic datasets for data workflows. | [View Repo](https://github.com/05tanish/SynthGen) |
+| **Minimi** | Conversational research agent powered by web search. | [View Repo](https://github.com/05tanish/MINIMI) |
+
+---
 ## 📊 Engineering Signals
 
 <p align="center">
@@ -65,7 +73,7 @@ Design → API Contracts → Build → Optimize → Containerize → CI/CD → D
 
 * LinkedIn →[linkden](https://www.linkedin.com/in/tanish-jain-5b986828a/)
 * LeetCode → [leetcode](https://leetcode.com/u/tanish993678/)
-* Email → [tanishjain262@gmail.com](mailto:tanishjain262@gmail.com)
+* Email → [tanishjain626@gmail.com](mailto:tanishjain626@gmail.com)
 
 ---
 
